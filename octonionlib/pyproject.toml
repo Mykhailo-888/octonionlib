@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "octonionlib"
+version = "0.1.0"
+description = "Pure-Python library for octonion arithmetic"
+authors = [{name="Mykhailo"}]
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "MIT"}
