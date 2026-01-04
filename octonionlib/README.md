@@ -34,17 +34,18 @@ print(e2 * e1)   # → -1.0e3  (anti-commutative)
 # Non-associativity
 print((e1 * e2) * e3)  # → -1.0e1
 print(e1 * (e2 * e3))  # → +1.0e1
-
 ## Octonion Multiplication Rules
 
 Multiplication is defined using the **Fano plane** (mnemonic for basis elements e₁–e₇):
 
-![Fano Plane 1](https://www.researchgate.net/publication/332300843/figure/fig2/AS:769264361410561@1560418324214/Octonion-multiplication-represented-using-a-Fano-plane.png)
+![Fano Plane 1](https://upload.wikimedia.org/wikipedia/commons/9/92/Fano_plane.svg)
 
-![Fano Plane 2](https://www.researchgate.net/publication/328137036/figure/fig2/AS:679302651707392@1538969781498/Figure-B2-The-Fano-plane-for-split-octonions-multiplication-table-This-Fano-plane-can.png)
+![Fano Plane 2](http://theoryofeverything.org/MyToE/wp-content/uploads/2013/06/FanoLegendre.jpg)
 
-![Fano Plane 3](https://www.researchgate.net/publication/344422295/figure/fig1/AS:941303814684683@1601435726862/The-Fano-plane-captures-multiplication-of-octonions.png)
+![Fano Plane 3](http://theoryofeverything.org/wordpress/wp-content/uploads/2012/11/ToE_Demonstration-123a2.png)
 
 Full multiplication table for basis elements e₁–e₇:
 
 ![Octonion Multiplication Table](https://upload.wikimedia.org/wikipedia/commons/a/a3/Octonion-Multiplication-Table.png)
+
+![Colored Multiplication Table](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Spacetime_Algebra_Octonion_Multiplication_Tables.svg/800px-Spacetime_Algebra_Octonion_Multiplication_Tables.svg.png)
