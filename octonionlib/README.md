@@ -34,14 +34,15 @@ print(e2 * e1)   # → -1.0e3  (anti-commutative)
 # Non-associativity
 print((e1 * e2) * e3)  # → -1.0e1
 print(e1 * (e2 * e3))  # → +1.0e1
-## Octonion Multiplication Rules
 
-Multiplication is defined using the **Fano plane** (mnemonic for basis elements e₁–e₇):
-
-![Fano Plane](https://www.wolframcloud.com/obj/resourcesystem/published/DemonstrationRepository/deployments/OctonionsAndTheFanoPlaneMnemonic/img/OctonionsAndTheFanoPlaneMnemonic_Snapshot-2.png)
-
-![Alternative Fano Plane](https://math.ucr.edu/home/baez/octonions/fano.jpg)
-
+Octonion Multiplication Rules
+Multiplication is defined using the Fano plane (mnemonic for basis elements e₁–e₇):
+Fano Plane
+Alternative Fano Plane
 Full multiplication table for basis elements e₁–e₇:
-
-![Octonion Multiplication Table](https://upload.wikimedia.org/wikipedia/commons/a/a3/Octonion-Multiplication-Table.png)
+Octonion Multiplication Table
+Why Octonions?
+Octonions form the largest normed division algebra over the reals. They are non-commutative and non-associative (but alternative). Useful in advanced physics (string theory, exceptional Lie groups like G₂) and emerging ML research (hypercomplex neural networks).
+License
+MIT License
+Contributions welcome!
