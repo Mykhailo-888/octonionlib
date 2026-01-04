@@ -38,14 +38,12 @@ print(e1 * (e2 * e3))  # → +1.0e1
 
 Multiplication is defined using the **Fano plane** (mnemonic for basis elements e₁–e₇):
 
-![Fano Plane 1](https://upload.wikimedia.org/wikipedia/commons/9/92/Fano_plane.svg)
+![Fano Plane 1](https://i.sstatic.net/94vzB.jpg)
 
-![Fano Plane 2](http://theoryofeverything.org/MyToE/wp-content/uploads/2013/06/FanoLegendre.jpg)
+![Fano Plane 2](https://www.euclideanspace.com/maths/algebra/realNormedAlgebra/octonion/fano.gif)
 
-![Fano Plane 3](http://theoryofeverything.org/wordpress/wp-content/uploads/2012/11/ToE_Demonstration-123a2.png)
+![Fano Plane 3](https://upload.wikimedia.org/wikipedia/commons/9/92/Fano_plane.svg)
 
 Full multiplication table for basis elements e₁–e₇:
 
 ![Octonion Multiplication Table](https://upload.wikimedia.org/wikipedia/commons/a/a3/Octonion-Multiplication-Table.png)
-
-![Colored Multiplication Table](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Spacetime_Algebra_Octonion_Multiplication_Tables.svg/800px-Spacetime_Algebra_Octonion_Multiplication_Tables.svg.png)
