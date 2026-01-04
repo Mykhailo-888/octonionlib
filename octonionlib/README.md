@@ -38,11 +38,9 @@ print(e1 * (e2 * e3))  # → +1.0e1
 
 Multiplication is defined using the **Fano plane** (mnemonic for basis elements e₁–e₇):
 
-![Fano Plane 1](https://i.sstatic.net/94vzB.jpg)
+![Fano Plane](https://i.sstatic.net/94vzB.jpg)
 
-![Fano Plane 2](https://www.euclideanspace.com/maths/algebra/realNormedAlgebra/octonion/fano.gif)
-
-![Fano Plane 3](https://upload.wikimedia.org/wikipedia/commons/9/92/Fano_plane.svg)
+![Alternative Fano Plane](https://www.euclideanspace.com/maths/algebra/realNormedAlgebra/octonion/fano.gif)
 
 Full multiplication table for basis elements e₁–e₇:
 
