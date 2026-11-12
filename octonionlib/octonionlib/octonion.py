@@ -143,3 +143,22 @@ class Octonion:
         return all(
             abs(x - y) <= tol for x, y in zip(self.a, other.a)
         )
+
+if __name__ == "__main__":
+    x = Octonion((1, 2, 0, 0, 0, 0, 0, 0))
+    y = Octonion((3, 1, 0, 0, 0, 0, 0, 0))
+
+    print("=== Калькулятор октоніонів ===")
+    print("x =", x)
+    print("y =", y)
+    print()
+
+    print("Додавання: x + y =", x + y)
+    print("Віднімання: x - y =", x - y)
+    print("Множення: x * y =", x * y)
+    print("Множення на число: x * 2 =", x * 2)
+    print()
+
+    print("Норма x =", x.norm())
+    print("Спряжене x =", x.conj())
+    print("Обернене x =", x.inv())
